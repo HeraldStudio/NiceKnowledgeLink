@@ -10,8 +10,8 @@ http://www.cnblogs.com/skynet/category/241385.html
 
 http://developer.android.com/guide/topics/manifest/uses-sdk-element.html    
 http://developer.android.com/about/dashboards/index.html    
-http://developer.android.com/guide/practices/screens_support.html    
+http://developer.android.com/training/basics/supporting-devices/index.html    
 这是Android开发文档关于兼容性的一些文章    
 * SDK版本与API level    
 * 平台版本和屏幕大小市场份额    
-* 兼容屏幕大小    
+* 解决兼容性问题，包括语言、屏幕、版本        
