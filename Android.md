@@ -7,3 +7,11 @@ http://blog.csdn.net/hellogv/article/category/588885
 
 http://www.cnblogs.com/skynet/category/241385.html    
 这是Android优秀博文列表。
+
+http://developer.android.com/guide/topics/manifest/uses-sdk-element.html    
+http://developer.android.com/about/dashboards/index.html    
+http://developer.android.com/guide/practices/screens_support.html    
+这是Android开发文档关于兼容性的一些文章    
+* SDK版本与API level    
+* 平台版本和屏幕大小市场份额    
+* 兼容屏幕大小    
