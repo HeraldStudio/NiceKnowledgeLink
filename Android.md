@@ -20,5 +20,8 @@ http://blog.csdn.net/ohuan/article/details/6560346
 * 针对API的选择和测试策略    
 * 设置minSdkVersion意义            
 
-http://blog.csdn.net/shandong_chu/article/details/7951126
-关于Android最常用的测试工具介绍
+http://blog.csdn.net/shandong_chu/article/details/7951126    
+关于Android最常用的测试工具介绍    
+
+http://blog.csdn.net/liuhe688/article/details/6584143    
+Android运行异常捕捉方法，实现向服务器传递异常崩溃信息和优化异常显示。    
