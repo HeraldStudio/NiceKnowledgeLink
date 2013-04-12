@@ -25,3 +25,6 @@ http://blog.csdn.net/shandong_chu/article/details/7951126
 
 http://blog.csdn.net/liuhe688/article/details/6584143    
 Android运行异常捕捉方法，实现向服务器传递异常崩溃信息和优化异常显示。    
+
+http://mobile.tutsplus.com/tutorials/android/android-sdk-build-a-simple-sax-parser/
+Android使用SAX处理XML的教程
